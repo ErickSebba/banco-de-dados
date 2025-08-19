@@ -1,0 +1,8 @@
+CREATE DATABASE IF NOT EXISTS ufmt;
+USE ufmt;
+
+CREATE TABLE aluno(
+    id INT AUTO_INCREMENT;
+    nome VARCHAR(200);
+    
+);
